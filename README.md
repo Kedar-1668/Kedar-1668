@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Kedarnath Pradhan<br><br>* 🎓 B.Tech CSE student at Silicon University (CGPA: 9.09)<br>* 💻 Passionate MERN Stack Developer<br>* ☁️ Azure Cloud Enthusiast<br>* 🚀 Focused on building scalable & real-world applications<br>* 🧠 Strong in DSA, OOP, and System Design<br><br>---<br><br>🛠️ Technical Skills<br><br>* 💻 Languages: C, Java, Python, JavaScript<br>* 🌐 Frontend: React.js, React Native, HTML, CSS<br>* ⚙️ Backend: Node.js, Express.js<br>* 🗄️ Databases: MongoDB, MySQL<br>* ☁️ Tools & Cloud: Azure, Git, GitHub, Linux, ImageKit<br><br>---<br><br>📂 Projects<br><br>* 🛒 GreenCart – Full-stack grocery delivery web app (MERN)<br>* 🚗 Car Rental System – Booking platform with real-time tracking<br>* 🌐 SIPC Website – Responsive React-based website</p>
+<p align="left">I'm Kedarnath Pradhan<br><br>* 🎓 B.Tech CSE student at Silicon University (CGPA: 9.06)<br>* 💻 Passionate MERN Stack Developer<br>* ☁️ Azure Cloud Enthusiast<br>* 🚀 Focused on building scalable & real-world applications<br>* 🧠 Strong in DSA, OOP, and System Design<br><br>---<br><br>🛠️ Technical Skills<br><br>* 💻 Languages: C, Java, Python, JavaScript<br>* 🌐 Frontend: React.js, React Native, HTML, CSS<br>* ⚙️ Backend: Node.js, Express.js<br>* 🗄️ Databases: MongoDB, MySQL<br>* ☁️ Tools & Cloud: Azure, Git, GitHub, Linux, ImageKit<br><br>---<br><br>📂 Projects<br><br>* 🛒 GreenCart – Full-stack grocery delivery web app (MERN)<br>* 🚗 Car Rental System – Booking platform with real-time tracking<br>* 🌐 SIPC Website – Responsive React-based website</p>
 
 ###
 
